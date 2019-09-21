@@ -1,0 +1,18 @@
+1/HTML
+
+Structure classique avec des div et des li
+J'ai mis une id sur les li ds mon HTML pour les manipuler
+ensuite dans mon jQuery pour les faire disparaitre.
+
+2/CSS: 
+
+Je vous invite à lire les commentaires dans mon code pour voir 
+les différentes étapes de mon code
+
+3/jQuery:
+
+argument de 1000ms dans ma fonction show() pour faire apparaitre
+un petit délai sympa dans l'apparition de mes boutons.
+Pour plus d'infos, je vous invite à lire mes commentaires dans me code.
+
+

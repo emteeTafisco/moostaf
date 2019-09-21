@@ -1,0 +1,52 @@
+
+/*mon background par defaut*/
+
+body{
+	background-image:url("image/back.jpg");
+}
+
+/*mon titre carte d'anniversaire*/
+
+h1{
+	margin-top: 0px
+	padding: 20px;
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+
+
+}
+
+/*suppression des puces de mes li*/
+
+li{
+	list-style-type: none;
+	padding:40px;
+	text-align: center;
+}
+
+/*mes 4 bouttons*/
+
+button{
+ background-color:#fff;
+ font-size: 30px;
+ border-radius: 4px;
+ box-shadow: 3px 3px 2px;
+
+}
+
+/*code pour cacher tous les 3 autres boutons par defaut*/
+
+#b2{ display:none;}
+
+#b3{display:none;}
+
+#b4{display:none;}
+
+
+  
+
+
+
+
+
